@@ -20,7 +20,7 @@ class ListItem extends Component {
         <CardSection>
            <Image
             style={imageStyle}
-            source={{ uri: 'https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL.jpg' }}
+            source={{ uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44494gKZPQXtTcyOu4Y4qoRJfslB6GPR4pnxLLghM24S4VHF1LA' }}
            />
         </CardSection>
 

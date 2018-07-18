@@ -1,18 +1,18 @@
 dependencies: \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/DevSupport/RCTDevMenu.m \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/DevSupport/RCTDevMenu.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTKeyCommands.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/techhack/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/DevSupport/RCTDevMenu.m \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/DevSupport/RCTDevMenu.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/harrisonwang/Desktop/Projects/GitHub\ Projects/yeah/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
